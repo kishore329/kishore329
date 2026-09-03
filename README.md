@@ -9,7 +9,7 @@
  ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝    ╚══════╝
 ```
 
-<code>AI & Data Science Undergraduate&nbsp;&nbsp;/&nbsp;&nbsp;Aspiring Data Engineer&nbsp;&nbsp;/&nbsp;&nbsp;Chennai, India</code>
+<code>AI & Data Science Undergraduate&nbsp;&nbsp;/&nbsp;&nbsp;Aspiring AI Engineer&nbsp;&nbsp;/&nbsp;&nbsp;Chennai, India</code>
 
 **[✉ Email](mailto:kishorekktd123@gmail.com)** &nbsp;·&nbsp; **[⌥ GitHub](https://github.com/kishore329)** &nbsp;·&nbsp; **[◈ Portfolio](#)** &nbsp;·&nbsp; **[in LinkedIn](#)**
 
