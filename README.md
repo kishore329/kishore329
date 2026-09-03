@@ -1,18 +1,4 @@
 <div align="center">
- ██╗  ██╗██╗███████╗██╗  ██╗ ██████╗ ██████╗ ███████╗    ███████╗
- ██║ ██╔╝██║██╔════╝██║  ██║██╔═══██╗██╔══██╗██╔════╝    ██╔════╝
- █████╔╝ ██║███████╗███████║██║   ██║██████╔╝█████╗      ███████╗
- ██╔═██╗ ██║╚════██║██╔══██║██║   ██║██╔══██╗██╔══╝      ╚════██║
- ██║  ██╗██║███████║██║  ██║╚██████╔╝██║  ██║███████╗    ███████║
- ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝    ╚══════╝
-
-<code>AI & Data Science Undergraduate  /  Aspiring Data Engineer  /  Chennai, India</code>
-
-✉ Email  ·  ⌥ GitHub  ·  ◈ Portfolio  ·  in LinkedIn
-
-</div> <br>
-
-
 
   <!-- ANIMATED SVG TYPING HEADER -->
   <a href="https://git.io/typing-svg">
@@ -148,15 +134,8 @@
 <h3>📈 GitHub Live Analytics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kishore329&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kishore329&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
-<br />
-
-<!-- STREAK ANIMATION -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore329&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kishore329&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore329&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 <br />
