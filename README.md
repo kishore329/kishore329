@@ -1,46 +1,343 @@
 <div align="center">
-
-👋 Hey, I’m Kishore S
-
-AI & Data Science Undergraduate · Aspiring Data Engineer
-
-Chennai, India 🇮🇳
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050B14,50:0B1F33,100:00C2FF&text=KISHORE%20S&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20ASPIRING%20DATA%20ENGINEER&descAlignY=60&descSize=16&animation=fadeIn"/>
 <br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=720&lines=Artificial+Intelligence+%26+Data+Science+Undergraduate;Building+AI-powered+applications;Exploring+Data+Engineering+%26+Cloud;Python+%7C+SQL+%7C+Machine+Learning;Turning+real-world+problems+into+working+systems"/>
 <a href="mailto:kishorekktd123@gmail.com">
-<img src="https://img.shields.io/badge/Email-kishorekktd123%40gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/CONTACT-00C2FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://github.com/kishore329">
-<img src="https://img.shields.io/badge/GitHub-kishore329-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+solutions;Exploring+Data+Engineering;Learning+Cloud+Technologies;Turning+ideas+into+working+projects"/>
+<img src="https://komarev.com/ghpvc/?username=kishore329&label=PROFILE%20VIEWS&color=00C2FF&style=flat-square"/>
 </div>
 
 ⸻
 
-🧑‍💻 About Me
+<div align="center">
 
-I’m a B.Tech Artificial Intelligence & Data Science student at Vel Tech High Tech, graduating in 2028, with a current CGPA of 8.19.
+ENGINEERING IS NOT JUST ABOUT WRITING CODE.
 
-I enjoy building practical solutions using Python, machine learning, NLP and databases, while continuously expanding toward Data Engineering and Cloud Computing.
+IT'S ABOUT BUILDING SYSTEMS THAT SOLVE PROBLEMS.
 
-Currently, I’m focused on:
+</div>
+<br>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-* 🧠 Strengthening Machine Learning & AI
-* 📊 Improving Data & SQL fundamentals
-* ☁️ Learning Cloud & Data Engineering
-* 🚀 Building projects that solve real-world problems
+👨‍💻 About
+
+I’m Kishore S, an Artificial Intelligence & Data Science undergraduate at Vel Tech High Tech, graduating in 2028.
+
+I enjoy working at the intersection of:
+
+AI × Data × Software
+
+My projects focus on turning real-world problems into practical software systems. I’m currently strengthening my foundations in machine learning, databases and programming, while moving toward Data Engineering and Cloud Computing.
+
+</td>
+<td width="40%" valign="top">
+
+⚡ Snapshot
+
+🎓  AI & DS
+📅  Class of 2028
+📊  CGPA  8.19
+📍  Chennai, India
+FOCUS
+━━━━━━━━━━━━━━━━
+Python
+SQL / DBMS
+AI / ML
+Data Engineering
+Cloud
+</td>
+</tr>
+</table>
 
 ⸻
 
-🛠️ Tech Stack
+🧠 ENGINEERING STACK
 
-Languages & Database
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+PROGRAMMING
+
+<img src="https://skillicons.dev/icons?i=python,java&theme=dark"/>
+
+DATA · AI · MACHINE LEARNING
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow&theme=dark"/>
+<br>
+
+NLP   TF-IDF   Logistic Regression   Machine Learning
+
+WEB · TOOLS · DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=flask,html,css,bootstrap,git,github,vscode&theme=dark"/>
+<br>
+
+Google Colab   SQL   DBMS
+
+</div>
+
+⸻
+
+🚀 SELECTED WORK
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<div align="center">
+
+🛰️
+
+EduSort
+
+AI Complaint Classification & Routing
+
+</div>
+
+⸻
+
+THE PROBLEM
+
+Student complaints can require manual reading, categorization and forwarding to different departments.
+
+THE BUILD
+
+EduSort uses NLP + machine learning to understand complaint text, classify it and route it toward the appropriate department.
+
+USER INPUT
+    ↓
+COMPLAINT TEXT
+    ↓
+TEXT PROCESSING
+    ↓
+TF-IDF
+    ↓
+ML CLASSIFIER
+    ↓
+CATEGORY
+    ↓
+DEPARTMENT ROUTING
+
+TECHNOLOGY
+
+Python NLP TF-IDF
+Logistic Regression Flask
+
+</td>
+<td width="50%" valign="top">
+<div align="center">
+
+🛡️
+
+Med-Guard AI
+
+AI Healthcare Safety Assistant
+
+</div>
+
+⸻
+
+THE PROBLEM
+
+Prescription and medication information can be difficult for users to interpret or independently cross-check.
+
+THE BUILD
+
+Med-Guard AI is designed as a healthcare safety-support system that reviews provided health and prescription information and highlights potential concerns.
+
+HEALTH INFORMATION
+        ↓
+PRESCRIPTION
+        ↓
+AI ANALYSIS
+        ↓
+POTENTIAL CONCERNS
+        ↓
+SAFETY SUPPORT
+        ↓
+DOCTOR
+
+TECHNOLOGY
+
+Python AI / ML
+Prescription Analysis
+Healthcare Safety
+
+</td>
+</tr>
+</table>
+
+⸻
+
+💼 INDUSTRY EXPOSURE
+
+<table>
+<tr>
+<td width="20%" align="center">
+
+🏭
+
+</td>
+<td width="80%">
+
+Hyundai
+
+Digital ME Department · Intern
+
+Gained exposure to a real industrial digital manufacturing environment, engineering workflows and the practical application of digital technologies within manufacturing operations.
+
+</td>
+</tr>
+</table>
+
+⸻
+
+🏆 ACHIEVEMENTS
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+🥇
+
+FIRST PRIZE
+
+SIH Intercollege Hackathon
+
+AI & Data Science Department
+
+</td>
+<td align="center" width="50%">
+
+⚡
+
+HACKATHON
+
+Prathyusha Engineering College
+
+Participant
+
+</td>
+</tr>
+</table>
+</div>
+
+⸻
+
+🧭 THE ROAD AHEAD
+
+<div align="center">
+                     KISHORE
+                        │
+                        ▼
+              AI & DATA SCIENCE
+                        │
+             ┌──────────┴──────────┐
+             ▼                     ▼
+        PROGRAMMING              DATA
+        Python / Java          SQL / DBMS
+             │                     │
+             └──────────┬──────────┘
+                        ▼
+                   AI / ML
+                        │
+                        ▼
+               DATA ENGINEERING
+                        │
+                        ▼
+                     CLOUD
+                        │
+                        ▼
+             ┌───────────────────┐
+             │  DATA / ML ENGINEER│
+             └───────────────────┘
+
+CURRENTLY FOCUSING ON
+
+Data Engineering   Cloud Computing   Machine Learning
+
+</div>
+
+⸻
+
+📈 GITHUB COMMAND CENTER
+
+<div align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kishore329&show_icons=true&hide_border=true&theme=transparent&title_color=00C2FF&icon_color=00C2FF&text_color=9CA3AF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore329&layout=compact&hide_border=true&theme=transparent&title_color=00C2FF&text_color=9CA3AF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore329&hide_border=true&theme=transparent&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=9CA3AF&dates=6B7280"/>
+</div>
+
+⸻
+
+📊 CONTRIBUTION GRAPH
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore329&bg_color=00000000&color=9CA3AF&line=00C2FF&point=FFFFFF&area=true&hide_border=true"/>
+</div>
+
+⸻
+
+🔭 CURRENT STATUS
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+🧠 LEARNING
+
+Machine Learning
+TensorFlow
+Data Engineering
+
+</td>
+<td width="33%" align="center">
+
+☁️ EXPLORING
+
+Cloud Computing
+Data Pipelines
+Engineering Systems
+
+</td>
+<td width="33%" align="center">
+
+🚀 LOOKING FOR
+
+Internships
+Hackathons
+ML Collaborations
+
+</td>
+</tr>
+</table>
+
+⸻
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B14,100:00C2FF&height=2"/>
+<br>
+
+BUILD → BREAK → LEARN → IMPROVE
+
+<br>
+
+Have an interesting problem? Let’s build it.
+
+<br>
+<a href="mailto:kishorekktd123@gmail.com">
+<img src="https://img.shields.io/badge/kishorekktd123%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=00C2FF"/>
+</a>
+
+© 2026 Kishore S · AI & Data Science · Chennai
+
+</div><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/DBMS-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
