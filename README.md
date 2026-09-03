@@ -6,7 +6,11 @@
  ██║  ██╗██║███████║██║  ██║╚██████╔╝██║  ██║███████╗    ███████║
  ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝    ╚══════╝
 
+<code>AI & Data Science Undergraduate  /  Aspiring Data Engineer  /  Chennai, India</code>
 
+✉ Email  ·  ⌥ GitHub  ·  ◈ Portfolio  ·  in LinkedIn
+
+</div> <br>
 
 
 
